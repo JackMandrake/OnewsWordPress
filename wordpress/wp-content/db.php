@@ -1,0 +1,1 @@
+/var/www/html/S08/WP/S08-oNews-Wordpress-JackMandrake/wordpress/wp-content/plugins/query-monitor/wp-content/db.php
